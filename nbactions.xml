@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<actions>
+        <action>
+            <actionName>CUSTOM-Quarkus Run</actionName>
+            <displayName>Quarkus Run</displayName>
+            <goals>
+                <goal>compile</goal>
+                <goal>quarkus:dev</goal>
+            </goals>
+        </action>
+        
+        
+        
+    </actions>
